@@ -36,7 +36,6 @@ These datasets provide a trustworthy overview of Thailand’s aging population, 
 
 ## **References**
 
-- Grassi, S. (2024) “Analyzing Aging Population in Thailand.” [PDF](https://www.researchgate.net/publication/386051069_Analyzing_Aging_Population_in_Thailand)  
 - Humanitarian Data Exchange (2019) Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO).  
 - National Statistics Office of Thailand (2022) Government Data Catalog Smart Plus.
 
